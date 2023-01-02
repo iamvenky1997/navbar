@@ -91,7 +91,7 @@ const NavBar = () =>{
                 <div class="profile_details">
                     <img src="https://vz.cnwimg.com/wp-content/uploads/2014/01/alex.jpg?x86007" alt="" />
                     <div class="name_job">
-                        <div class="name">Name</div>
+                        <div class="name">Venkatesh</div>
                         <div class="job">Role</div>
                     </div>
                 </div>
